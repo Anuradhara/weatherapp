@@ -16,6 +16,6 @@ A simple weather application that fetches and displays current weather informati
 - JavaScript (jQuery)
 - OpenWeatherMap API
 
-![Screenshot 2024-07-10 125347](https://github.com/Anuradhara/weatherapp/assets/175148397/e2b0f7a0-b46f-4939-b3c8-e4ec863eeaba)
-![Screenshot 2024-07-10 125414](https://github.com/Anuradhara/weatherapp/assets/175148397/509608bf-a32c-44d3-8fda-69bc79db9106)
-![Screenshot 2024-07-10 125440](https://github.com/Anuradhara/weatherapp/assets/175148397/00225179-0587-4d8b-bb01-3d29f26541f1)
+![Screenshot 2024-07-10 125635](https://github.com/Anuradhara/weatherapp/assets/175148397/6b1f709f-5f05-453b-ae72-35d95aca4ef2)
+![Screenshot 2024-07-10 125702](https://github.com/Anuradhara/weatherapp/assets/175148397/667b6733-d524-46e3-93e8-c1061ca0ce8d)
+![Screenshot 2024-07-10 125716](https://github.com/Anuradhara/weatherapp/assets/175148397/767ae448-7f3f-411f-aef3-97ad2ca26abf)
